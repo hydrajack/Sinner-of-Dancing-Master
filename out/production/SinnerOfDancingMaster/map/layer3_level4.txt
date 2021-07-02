@@ -1,0 +1,2 @@
+WALL_2,-52429,C:\Users\user\OneDrive\орн▒\W\WALL_2.png,1,1
+WALL_4,-13108,C:\Users\user\OneDrive\орн▒\W\WALL_4.png,1,1

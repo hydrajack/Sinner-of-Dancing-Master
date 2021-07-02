@@ -1,0 +1,1 @@
+WALL_4,-26215,C:\mapgendertest\floor\WALL4.png,1,1

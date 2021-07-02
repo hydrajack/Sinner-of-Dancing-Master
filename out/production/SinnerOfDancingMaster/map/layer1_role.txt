@@ -1,0 +1,3 @@
+FLOOR6,-13395457,C:\mapgendertest\floor\FLOOR6.png,1,1
+GRAY,-3355444,C:\mapgendertest\floor\GRAY.png,1,1
+STAGE,-10040320,C:\mapgendertest\floor\STAGE.png,1,1

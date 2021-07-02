@@ -1,0 +1,2 @@
+STONE,-10066330,C:\mapgendertest\floor\STONE.png,1,1
+ACO,-3407668,C:\mapgendertest\floor\ACO.png,1,1

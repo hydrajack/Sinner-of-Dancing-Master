@@ -1,0 +1,2 @@
+W3,-52429,C:\Users\user\OneDrive\орн▒\W\W3.png,1,1
+DOOR_3,-256,C:\Users\user\OneDrive\орн▒\W\DOOR_3.png,1,1
